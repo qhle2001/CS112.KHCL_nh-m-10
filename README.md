@@ -26,3 +26,7 @@
 
 ## Chủ đề seminar
 Tên chủ đề: Luyện tập 2
+
+## Link bảng tính các nhóm thảo luận
+https://docs.google.com/spreadsheets/d/1H2jRq-SMFUrrUyDAeNXwwZ5uNRD_peM5e5ReurmvGDk/edit?usp=sharing
+
